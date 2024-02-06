@@ -15,5 +15,6 @@ public class Hello {
         System.out.println("Hello World");
         new Scanner(System.in).next();
         System.out.println("Hello World");
+        System.out.println("hot-fix");
     }
 }
