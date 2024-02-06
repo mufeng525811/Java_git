@@ -11,5 +11,9 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        new Scanner(System.in).next();
+        System.out.println("Hello World");
     }
 }
