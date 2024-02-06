@@ -21,5 +21,6 @@ public class Hello {
         System.out.println("hot-fix-test!");
         System.out.println("hot-fix-test!");
         System.out.println("hot-fix-test!new push");
+        System.out.println("hot-fix-test!new pull");
     }
 }
